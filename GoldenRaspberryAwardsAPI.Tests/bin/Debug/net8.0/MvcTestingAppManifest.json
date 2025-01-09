@@ -1,0 +1,6 @@
+{
+  "GoldenRaspberryAwards.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Api",
+  "GoldenRaspberryAwards.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Application",
+  "GoldenRaspberryAwards.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Domain",
+  "GoldenRaspberryAwards.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Infrastructure"
+}

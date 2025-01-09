@@ -1,0 +1,15 @@
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\bin\Debug\net6.0\GoldenRaspberryAwards.Application.deps.json
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\bin\Debug\net6.0\GoldenRaspberryAwards.Application.dll
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\bin\Debug\net6.0\GoldenRaspberryAwards.Application.pdb
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\bin\Debug\net6.0\GoldenRaspberryAwards.Domain.dll
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\bin\Debug\net6.0\GoldenRaspberryAwards.Domain.pdb
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\GoldenRaspberryAwards.Application.csproj.AssemblyReference.cache
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\GoldenRaspberryAwards.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\GoldenRaspberryAwards.Application.AssemblyInfoInputs.cache
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\GoldenRaspberryAwards.Application.AssemblyInfo.cs
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\GoldenRaspberryAwards.Application.csproj.CoreCompileInputs.cache
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\GoldenRa.075F0221.Up2Date
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\GoldenRaspberryAwards.Application.dll
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\refint\GoldenRaspberryAwards.Application.dll
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\GoldenRaspberryAwards.Application.pdb
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Application\obj\Debug\net6.0\ref\GoldenRaspberryAwards.Application.dll

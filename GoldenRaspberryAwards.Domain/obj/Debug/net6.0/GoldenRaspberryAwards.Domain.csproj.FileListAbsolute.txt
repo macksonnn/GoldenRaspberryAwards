@@ -1,0 +1,11 @@
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\bin\Debug\net6.0\GoldenRaspberryAwards.Domain.deps.json
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\bin\Debug\net6.0\GoldenRaspberryAwards.Domain.dll
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\bin\Debug\net6.0\GoldenRaspberryAwards.Domain.pdb
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\obj\Debug\net6.0\GoldenRaspberryAwards.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\obj\Debug\net6.0\GoldenRaspberryAwards.Domain.AssemblyInfoInputs.cache
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\obj\Debug\net6.0\GoldenRaspberryAwards.Domain.AssemblyInfo.cs
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\obj\Debug\net6.0\GoldenRaspberryAwards.Domain.csproj.CoreCompileInputs.cache
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\obj\Debug\net6.0\GoldenRaspberryAwards.Domain.dll
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\obj\Debug\net6.0\refint\GoldenRaspberryAwards.Domain.dll
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\obj\Debug\net6.0\GoldenRaspberryAwards.Domain.pdb
+C:\GoldenRaspberryAwards\GoldenRaspberryAwards.Domain\obj\Debug\net6.0\ref\GoldenRaspberryAwards.Domain.dll

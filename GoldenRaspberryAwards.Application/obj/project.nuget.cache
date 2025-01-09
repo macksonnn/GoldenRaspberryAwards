@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sWEN/l8b3l84+ewO5kPk6O3+o7MwW/xUPaFiDgGVTFrenrA58v1cLrcH79p+UTo6W52S4BCpN5fZ6KvupML2Jg==",
+  "success": true,
+  "projectFilePath": "C:\\GoldenRaspberryAwards\\GoldenRaspberryAwards.Application\\GoldenRaspberryAwards.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
