@@ -28,7 +28,7 @@ O projeto está organizado nas seguintes camadas:
 2. Execute o projeto:
    dotnet run
 
-3. Acesse a documentação do Swagger em http://localhost:5000/swagger.
+3. Acesse a documentação do Swagger em http://localhost:5133/index.html .
 
 ## Instruções para Rodar os Testes de Integração
 1. Navegue até os projeto de test e execute:
